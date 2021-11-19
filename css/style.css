@@ -27,14 +27,14 @@ img {
   height: 100%;
 }
 .item-bg {
-  background: url("/img/images-1.jpg") center no-repeat;
+  background: url("../img/images-1.jpg") center no-repeat;
   background-size: cover;
 }
 .item-1 {
-  background: url("/img/images-2.png") center no-repeat;
+  background: url("../img/images-2.png") center no-repeat;
   background-size: cover;
 }
 .item-2 {
-  background: url("/img/images-3.png") center no-repeat;
+  background: url("../img/images-3.png") center no-repeat;
   background-size: cover;
 }
